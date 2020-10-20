@@ -9,10 +9,12 @@ Hi there 👋
 Right now I'm working as a Machine Learning engineer at [DreamQuark](https://www.dreamquark.com/) after 1 year and a half as a CTO et co-founder at [Umamy](https://umamy.fr).
 
 I do love solving continuous pipeline of Machine Learning problem (pre-processing on the fly and in real time, training by batch, deployment with shadowing concept).  I also love to solve engineering problem to automate everything possible.
+I believe automation will help people more effectively.
 
 ### 🌱 My Values
-- 🤔 &mdash; Passionate on solving real use case with Machine Learning and Deep Learning, with expertise in Microservices Architecture and Design, API Development (Fastapi, Flask, Docker, Kubernetes, AWS), Python, Deep Learning(Images, NLP, and Tabular Data with Pytorch and many other library). <br> 
+- 🤔 &mdash; Passionate on solving real use case with Machine Learning and Deep Learning, with expertise in Microservices Architecture and Design, API Development (Fastapi, Flask, Docker, Kubernetes, AWS), Python, Deep Learning( Images, NLP, and Tabular Data with Pytorch and many other library). <br> 
 - 😎 &mdash; loves contributes to Computer Science ecosystem. <br> ![github stats](https://github-readme-stats.vercel.app/api?username=nguyenanht&show_icons=true)
+- You can see in my repository multiple projets on how to use AWS to preprocess, train and deploy a model and many others in the future.
 
 ### 📮 Get In Touch!
 - Umamy website: https://umamy.fr/
