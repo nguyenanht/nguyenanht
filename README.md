@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/nguyenanht/nguyenanht/master/wave.gif" width="30px">
 I am engineer in Machine Learning. You can call me John. 😄
 
 
 # Johnathan Nguyen &mdash; @nguyenanht
 
-Hi there 👋
 
 Right now I'm working as a Machine Learning engineer at [DreamQuark](https://www.dreamquark.com/) after 1 year and a half as a CTO et co-founder at [Umamy](https://umamy.fr).
 
