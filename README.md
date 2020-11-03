@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/nguyenanht/nguyenanht/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/nguyenanht/nguyenanht/main/wave.gif" width="30px">
 I am engineer in Machine Learning. You can call me John. 😄
 
 
